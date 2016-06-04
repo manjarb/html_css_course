@@ -1,0 +1,67 @@
+.yellow-text {
+	color: yellow;
+}
+
+.small-text {
+	font-size: 8px;
+}
+
+.huge-text {
+	font-size: 48px
+}
+
+.text-center {
+	text-align: center;
+}
+
+.red-fade-list {
+	background-color: #FF0000;
+	/*background-color: rgba(255,0,0,1);*/
+	opacity: 0.5;
+}
+
+.red-list {
+	background-color: #FF0000;
+}
+
+.paragraph-spacing {
+	line-height: 32px;
+	letter-spacing: 3px;
+}
+
+.black-width-height-box ,
+.red-width-height-box {
+	width: 300px;
+	height: 100px;
+}
+.black-width-height-box {
+	background-color: #000;
+	color: #fff;
+}
+
+.red-width-height-box {
+	background-color: #FF0000;
+}
+
+.yellow-width-box {
+	background-color: yellow;
+	width: 500px;
+}
+
+.hidden-over-text {
+	overflow: hidden;
+}
+
+.padding-big-box {
+	padding: 30px 60px;
+	/*padding-left: 60px;
+	padding-right: 60px;
+	padding-top: 30px;
+	padding-bottom: 30px;*/
+}
+.blue-bg {
+	background-color: #3933FF;
+}
+.margin-all-box {
+	margin: 30px
+}
